@@ -1,4 +1,4 @@
-<h1 align="center">🐢Gio Sferrazza🐢</h1>
+<h1 align="center">🐢Giovanni Sferrazza🐢</h1>
 
 <h3 align="center">A software engineering student</h3>
 
