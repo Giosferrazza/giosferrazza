@@ -1,6 +1,6 @@
 <h1 align="center">🐢Giovanni Sferrazza🐢</h1>
 
-<h3 align="center">A software engineering student</h3>
+<h3 align="center">software engineer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
