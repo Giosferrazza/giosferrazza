@@ -1,6 +1,6 @@
 <h1 align="center">🐢Giovanni Sferrazza🐢</h1>
 
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Software Engineer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
