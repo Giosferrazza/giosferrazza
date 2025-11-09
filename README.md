@@ -11,9 +11,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giosferrazza&show_icons=true&locale=en&layout=compact" alt="giosferrazza"/>
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=giosferrazza&label=Profile%20views&color=0e75b6&style=flat" alt="giosferrazza"/>
