@@ -1,6 +1,8 @@
 <h1 align="center">🐢Giovanni Sferrazza🐢</h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Business Intellegence Analyst</h3>
+
+<h3 align="center">I turn business data into insight today, and I’m mastering the science to predict tomorrow.
 
 <h3 align="left">Languages and Tools:</h3>
 
