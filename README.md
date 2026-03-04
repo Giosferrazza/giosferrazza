@@ -2,8 +2,8 @@
 
 Business Intelligence Analyst Intern @ Bombora — SQL • Python • Data Modeling • BI
 
-- Portfolio: https://yourportfolio.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- Portfolio: https://giosferrazza.github.io
+- LinkedIn: www.linkedin.com/in/giovanni-sferrazza
 
 ## What I’m focused on
 - SQL analytics + metric validation
