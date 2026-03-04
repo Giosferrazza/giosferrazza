@@ -20,5 +20,6 @@ SQL • Power BI • Tableau • Excel • Python • Pandas • PostgreSQL • 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=giosferrazza&show_icons=true&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giosferrazza&layout=compact)
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giosferrazza&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giosferrazza&layout=compact&theme=dark)
