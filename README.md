@@ -74,3 +74,5 @@ LinkedIn
 https://linkedin.com/in/yourprofile
 
 ---
+
+![Snake animation](https://github.com/giosferrazza/giosferrazza/blob/output/github-contribution-grid-snake.svg)
