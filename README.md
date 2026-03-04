@@ -18,16 +18,6 @@ Currently pursuing a **B.S. in Information Systems at the University of Nevada, 
 
 ---
 
-## What I'm Focused On
-
-- SQL analytics and metric validation
-- Business intelligence dashboards and reporting
-- Data modeling and warehouse design
-- Python automation for analytics workflows
-- Translating business questions into data analysis
-
----
-
 ## Experience
 
 **Business Intelligence Analyst Intern — Bombora**  
@@ -36,25 +26,6 @@ Jul 2025 – Present
 - Performed domain coverage analysis expanding reporting datasets by ~4%  
 - Identified higher-quality data sources improving pipeline records by ~10%  
 - Optimized SQL queries in BigQuery improving dashboard accuracy and reliability
-
----
-
-## Featured Projects
-
-**Retail Inventory Intelligence System**  
-Power BI + SQL analytics platform analyzing inventory turnover and retail purchasing performance for a live retail business.
-
-**SQL Investigation Playbook**  
-Collection of SQL patterns used to debug metrics, reconcile datasets, and validate analytics outputs.
-
-**Automated Reporting Pipeline**  
-Python workflow transforming operational datasets into validated analytics reports.
-
-**Planet AR**  
-Educational augmented reality application built with Unity and ARKit to visualize planetary data.
-
-**Age AI**  
-Python Tkinter application integrating with a REST API to generate aging visualizations from facial images.
 
 ---
 
@@ -82,10 +53,3 @@ B.S. Information Systems — Expected 2026
 **Truckee Meadows Community College**  
 A.S. Computer Science & Engineering
 
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=giosferrazza&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giosferrazza&layout=compact)
