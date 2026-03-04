@@ -18,17 +18,6 @@ Currently pursuing a **B.S. in Information Systems at the University of Nevada, 
 
 ---
 
-## Experience
-
-**Business Intelligence Analyst Intern — Bombora**  
-Jul 2025 – Present
-
-- Performed domain coverage analysis expanding reporting datasets by ~4%  
-- Identified higher-quality data sources improving pipeline records by ~10%  
-- Optimized SQL queries in BigQuery improving dashboard accuracy and reliability
-
----
-
 ## Tech Stack
 
 **Data & BI**
@@ -42,14 +31,3 @@ Python (Pandas, NumPy) • R • REST APIs • Bash
 **Other Tools**
 
 Git • HTML • CSS • JavaScript • React • C++ • Unity
-
----
-
-## Education
-
-**University of Nevada, Reno**  
-B.S. Information Systems — Expected 2026
-
-**Truckee Meadows Community College**  
-A.S. Computer Science & Engineering
-
