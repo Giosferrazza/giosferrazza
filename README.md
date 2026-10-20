@@ -1,6 +1,6 @@
 # Giovanni Sferrazza
 
-giosferrazza12@gmail.com | 775-437-8138 | LinkedIn: https://linkedin.com/in/giovanni-sferrazza | Portfolio: https://giosferrazza.github.io
+LinkedIn: https://linkedin.com/in/giovanni-sferrazza | Portfolio: https://giosferrazza.github.io
 
 ## About
 Full Stack Developer with experience building and supporting production web, mobile, backend, database, and cloud applications using React, TypeScript, React Native, Node.js, NestJS, PostgreSQL, and AWS. Previous business intelligence experience includes SQL, Python, BigQuery, Looker, and automated reporting.
